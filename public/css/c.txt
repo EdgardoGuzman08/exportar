@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'Mark Pro';
+    src: url('/font/FontFont_FF.Mark.Pro.Bold.otf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.container {
+    width: 520px;
+    margin: 0 auto;
+    outline: 20px double #FA7937;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+
+.container-segundo {
+    max-width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+.container-segundo td {
+    padding: 10px;
+    border: 1px solid #000;
+    max-width: 100%;
+}
+
+.logo {
+    max-width: 120px;
+}
+
+
+.principaltitulo{
+    font-size: 30px;
+    margin: 0;
+    font-family: 'Mark Pro', sans-serif;
+    text-align: center;
+    margin-top: -6px;
+    color: rgb(0, 0, 0);
+    margin-bottom: -6px;
+    margin-left: 10px;
+}
+
+.numero-formulario {
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.id {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FA7937;
+}
+
+.numero-formulario {
+    font-family: 'Mark Pro', sans-serif;
+    font-size: 20px;
+    color: #FA7937;
+    margin-top: 10px;
+}
+
+
+.formulario{
+    padding-top: 40px;
+}
+.segundotitulo{
+    background-color: #FA7937;
+    font-size: 20px;
+    font-family: 'Mark Pro', sans-serif;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+label{
+    font-family: 'Mark Pro', sans-serif;
+    font-size: 16px;
+}
+
+.radio-checkbox {
+    -webkit-appearance: checkbox;
+    -moz-appearance: checkbox;
+    appearance: checkbox;
+}
+
+input{
+    font-size: 16px;
+}
+.area{
+    width: 50%;
+}
+
+.fecha{
+    width: 27.3%;
+}
+
+.autor{
+    width: 42%;
+}
+
+.no_empl{
+    width: 27%;
+}
+
+.linea_equipo{
+    width: 75%;
+}
+
+.sintoma{
+    width: 100%;
+}
+
+.descripcion{
+    width: 100%;
+}
+
+textarea{
+    font-size: 16px;
+}
+
+.primercheckadentro{
+    font-size: 20px;
+}
+
+.segundocheckadentro{
+    font-size: 20px;
+}
+
+.no_ot{
+    width: 100%;
+}
+
+.no_st{
+    width: 100%;
+}
+
+.align-right {
+    font-size: 30px;
+    color: red;
+}
